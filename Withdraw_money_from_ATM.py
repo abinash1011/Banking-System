@@ -28,7 +28,6 @@ if totalMoneyInBank >= amount_Out:
             it_count = it_count - total_notes_respectively[i] * currency[i]
 
 
-    print("brrr brrr")
     print("\033[1mYou get:\033[0m")
 
 
